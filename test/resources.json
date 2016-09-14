@@ -1,0 +1,3826 @@
+{
+  "title": null,
+  "env": {
+    "SHELL": "/bin/bash",
+    "TERM": "xterm-256color"
+  },
+  "stdout": [
+    [
+      0.039816,
+      "\u001b[?1034hbash-3.2$ "
+    ],
+    [
+      1.31662,
+      "d"
+    ],
+    [
+      0.087499,
+      "o"
+    ],
+    [
+      0.103008,
+      "c"
+    ],
+    [
+      0.064578,
+      "k"
+    ],
+    [
+      0.071641,
+      "e"
+    ],
+    [
+      0.079871,
+      "r"
+    ],
+    [
+      0.120297,
+      " "
+    ],
+    [
+      0.14484,
+      "s"
+    ],
+    [
+      0.206789,
+      "t"
+    ],
+    [
+      0.128066,
+      "a"
+    ],
+    [
+      0.111928,
+      "t"
+    ],
+    [
+      0.184067,
+      "s"
+    ],
+    [
+      0.359956,
+      "\r\n"
+    ],
+    [
+      1.530778,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %"
+    ],
+    [
+      7.1e-05,
+      "               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.86%               565.9 MiB / 1.954 GiB   28.29%              27.85 MB / 529.8 kB   238.5 MB / 0 B      2\r\n"
+    ],
+    [
+      0.499086,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      6.2e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.92%              567.1 MiB / 1.954 GiB   28.34%              27.85 MB / 529.8 kB   239.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.501284,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %"
+    ],
+    [
+      3.9e-05,
+      "               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.92%              567.1 MiB / 1.954 GiB   28.34%              27.85 MB / 529.8 kB   239.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.495368,
+      "\u001b[2J\u001b[HCONTAINER           CPU %        "
+    ],
+    [
+      0.000107,
+      "       MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.92%              567.1 MiB / 1.954 GiB   28.34%              27.85 MB / 529.8 kB   239.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.501167,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.8e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.13%             566.1 MiB / 1.954 GiB   28.30%              27.85 MB / 529.8 kB   239.7 MB / 0 B      2\r\n"
+    ],
+    [
+      0.498735,
+      "\u001b[2J\u001b[HCONTAINER"
+    ],
+    [
+      0.000248,
+      "           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.13%             566.1 MiB / 1.954 GiB   28.30%              27.85 MB / 529.8 kB   239.7 MB / 0 B      2\r\n"
+    ],
+    [
+      0.502655,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      6.5e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        97.15%              567.2 MiB / 1.954 GiB   28.35%              27.85 MB / 529.8 kB   240.3 MB / 0 B      2\r\n"
+    ],
+    [
+      0.501603,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      7.1e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.16%              568.3 MiB / 1.954 GiB   28.41%              27.85 MB / 529.8 kB   241 MB / 0 B        2\r\n"
+    ],
+    [
+      0.496148,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.7e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.16%              568.3 MiB / 1.954 GiB   28.41%              27.85 MB / 529.8 kB   241 MB / 0 B        2\r\n"
+    ],
+    [
+      0.502484,
+      "\u001b[2J\u001b[HCONTAINER"
+    ],
+    [
+      3.8e-05,
+      "           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.50%              569.4 MiB / 1.954 GiB   28.46%              27.85 MB / 529.8 kB   241.6 MB / 0 B      2\r\n"
+    ],
+    [
+      0.500387,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      6.7e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.50%              569.4 MiB / 1.954 GiB   28.46%              27.85 MB / 529.8 kB   241.6 MB / 0 B      2\r\n"
+    ],
+    [
+      0.496489,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.6e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.26%              570.5 MiB / 1.954 GiB   28.52%              27.85 MB / 529.8 kB   242.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.503773,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %        "
+    ],
+    [
+      5.5e-05,
+      "       NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.26%              570.5 MiB / 1.954 GiB   28.52%              27.85 MB / 529.8 kB   242.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.496297,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.4e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.05%             571.7 MiB / 1.954 GiB   28.58%              27.85 MB / 529.8 kB   242.9 MB / 0 B      2\r\n"
+    ],
+    [
+      0.502799,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.05%             571.7 MiB / 1.954 GiB   28.58%              27.85 MB / 529.8 kB   242.9 MB / 0 B      2\r\n"
+    ],
+    [
+      0.498178,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.92%              572.9 MiB / 1.954 GiB   28.64%              27.85 MB / 529.8 kB   243.6 MB / 0 B      2\r\n"
+    ],
+    [
+      0.502454,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      6e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.92%              572.9 MiB / 1.954 GiB   28.64%              27.85 MB / 529.8 kB   243.6 MB / 0 B      2\r\n"
+    ],
+    [
+      0.498725,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.5e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.92%             574.9 MiB / 1.954 GiB   28.73%              27.85 MB / 529.8 kB   244.6 MB / 0 B      2\r\n"
+    ],
+    [
+      0.499311,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT"
+    ],
+    [
+      5.9e-05,
+      "       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.92%             574.9 MiB / 1.954 GiB   28.73%              27.85 MB / 529.8 kB   244.6 MB / 0 B      2\r\n"
+    ],
+    [
+      0.498684,
+      "\u001b[2J\u001b[HCONTAINER"
+    ],
+    [
+      5.5e-05,
+      "           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        97.85%              570.2 MiB / 1.954 GiB   28.50%              27.85 MB / 529.8 kB   245.3 MB / 0 B      2\r\n"
+    ],
+    [
+      0.499724,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        97.85%              570.2 MiB / 1.954 GiB   28.50%              27.85 MB / 529.8 kB   245.3 MB / 0 B      2\r\n"
+    ],
+    [
+      0.499696,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.32%              571.3 MiB / 1.954 GiB   28.56%              27.85 MB / 529.8 kB   245.9 MB / 0 B      2\r\n"
+    ],
+    [
+      0.500067,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.32%              571.3 MiB / 1.954 GiB   28.56%              27.85 MB / 529.8 kB   245.9 MB / 0 B      2\r\n"
+    ],
+    [
+      0.500655,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      0.000716,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n"
+    ],
+    [
+      2.5e-05,
+      "40cf74e6173b        98.03%              572.3 MiB / 1.954 GiB   28.61%              27.85 MB / 529.8 kB   246.5 MB / 0 B      2\r\n"
+    ],
+    [
+      0.502931,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.03%              572.3 MiB / 1.954 GiB   28.61%              27.85 MB / 529.8 kB   246.5 MB / 0 B      2\r\n"
+    ],
+    [
+      0.495614,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b"
+    ],
+    [
+      4.9e-05,
+      "        98.36%              573.5 MiB / 1.954 GiB   28.66%              27.85 MB / 529.8 kB   247.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.50157,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT"
+    ],
+    [
+      5e-05,
+      "       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.36%              573.5 MiB / 1.954 GiB   28.66%              27.85 MB / 529.8 kB   247.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.498597,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.55%        "
+    ],
+    [
+      6.2e-05,
+      "     574.6 MiB / 1.954 GiB   28.72%              27.85 MB / 529.8 kB   247.8 MB / 0 B      2\r\n"
+    ],
+    [
+      0.499749,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.7e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.55%             574.6 MiB / 1.954 GiB   28.72%              27.85 MB / 529.8 kB   247.8 MB / 0 B      2\r\n"
+    ],
+    [
+      0.499449,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               "
+    ],
+    [
+      4.1e-05,
+      "NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        97.02%              575.7 MiB / 1.954 GiB   28.77%              27.85 MB / 529.8 kB   248.5 MB / 0 B      2\r\n"
+    ],
+    [
+      0.504749,
+      "\u001b[2J\u001b[HCONTAINER        "
+    ],
+    [
+      0.000144,
+      "   CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        97.02%              575.7 MiB / 1.954 GiB   28.77%              27.85 MB / 529.8 kB   248.5 MB / 0 B      2\r\n"
+    ],
+    [
+      0.495414,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.37%              576.8 MiB / 1.954 GiB   28.83%              27.85 MB / 529.8 kB   249.1 MB / 0 B      2\r\n"
+    ],
+    [
+      0.502911,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b"
+    ],
+    [
+      5.9e-05,
+      "        99.37%              576.8 MiB / 1.954 GiB   28.83%              27.85 MB / 529.8 kB   249.1 MB / 0 B      2\r\n"
+    ],
+    [
+      0.497348,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               "
+    ],
+    [
+      5.2e-05,
+      "MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.84%              577.8 MiB / 1.954 GiB   28.88%              27.85 MB / 529.8 kB   249.7 MB / 0 B      2\r\n"
+    ],
+    [
+      0.501015,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.4e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           "
+    ],
+    [
+      2.8e-05,
+      "PIDS\r\n40cf74e6173b        99.84%              577.8 MiB / 1.954 GiB   28.88%              27.85 MB / 529.8 kB   249.7 MB / 0 B      2\r\n"
+    ],
+    [
+      0.499596,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.64%             578.8 MiB / 1.954 GiB   28.93%              27.85 MB / 529.8 kB   250.3 MB / 0 B      2\r\n"
+    ],
+    [
+      0.50058,
+      "\u001b[2J\u001b[HCONTAINER"
+    ],
+    [
+      5.2e-05,
+      "           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.64%             578.8 MiB / 1.954 GiB   28.93%              27.85 MB / 529.8 kB   250.3 MB / 0 B      2\r\n"
+    ],
+    [
+      0.4988,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.3e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.36%              579.8 MiB / 1.954 GiB   28.98%              27.85 MB / 529.8 kB   250.9 MB / 0 B      2\r\n"
+    ],
+    [
+      0.50371,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.36%              579.8 MiB / 1.954 GiB   28.98%              27.85 MB / 529.8 kB   250.9 MB / 0 B      2\r\n"
+    ],
+    [
+      0.495404,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.4e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        94.81%              574.8 MiB / 1.954 GiB   28.73%              27.85 MB / 529.8 kB   251.5 MB / 0 B      2\r\n"
+    ],
+    [
+      0.503004,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.8e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        94.81%              574.8 MiB / 1.954 GiB"
+    ],
+    [
+      3.4e-05,
+      "   28.73%              27.85 MB / 529.8 kB   251.5 MB / 0 B      2\r\n"
+    ],
+    [
+      0.497312,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.6e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        97.57%              575.9 MiB / 1.954 GiB   28.79%              27.85 MB / 529.8 kB   252.1 MB / 0 B      2\r\n"
+    ],
+    [
+      0.503724,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        97.57%              575.9 MiB / 1.954 GiB   28.79%              27.85 MB / 529.8 kB   252.1 MB / 0 B      2\r\n"
+    ],
+    [
+      0.49611,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        "
+    ],
+    [
+      9.6e-05,
+      "100.94%             577 MiB / 1.954 GiB   28.84%              27.85 MB / 529.8 kB   252.7 MB / 0 B      2\r\n"
+    ],
+    [
+      0.499729,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.6e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O        "
+    ],
+    [
+      4.3e-05,
+      "       BLOCK I/O           PIDS\r\n40cf74e6173b        100.94%             577 MiB / 1.954 GiB   28.84%              27.85 MB / 529.8 kB   252.7 MB / 0 B      2\r\n"
+    ],
+    [
+      0.500205,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.67%             578 MiB / 1.954 GiB   28.89%              27.85 MB / 529.8 kB"
+    ],
+    [
+      0.00018,
+      "   253.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.503801,
+      "\u001b[2J\u001b[HCONTAINER           "
+    ],
+    [
+      6.8e-05,
+      "CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.67%             578 MiB / 1.954 GiB   28.89%              27.85 MB / 529.8 kB   253.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.496419,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.04%              579 MiB / 1.954 GiB   28.94%              27.85 MB / 529.8 kB   253.8 MB / 0 B      2\r\n"
+    ],
+    [
+      0.501889,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.4e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT     "
+    ],
+    [
+      2.1e-05,
+      "MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.04%              579 MiB / 1.954 GiB   28.94%              27.85 MB / 529.8 kB   253.8 MB / 0 B      2\r\n"
+    ],
+    [
+      0.497971,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT     "
+    ],
+    [
+      4.1e-05,
+      "MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        97.62%              580 MiB / 1.954 GiB   28.99%              27.85 MB / 529.8 kB   254.4 MB / 0 B      2\r\n"
+    ],
+    [
+      0.500665,
+      "\u001b[2J\u001b[HCONTAINER           "
+    ],
+    [
+      5.3e-05,
+      "CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        97.62%              580 MiB / 1.954 GiB   28.99%              27.85 MB / 529.8 kB   254.4 MB / 0 B      2\r\n"
+    ],
+    [
+      0.499045,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        97.34%              581.1 MiB / 1.954 GiB   29.04%              27.85 MB / 529.8 kB   255.1 MB / 0 B      2\r\n"
+    ],
+    [
+      0.50412,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.9e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        97.34%              581.1 MiB / 1.954 GiB   29.04%              27.85 MB / 529.8 kB   255.1 MB / 0 B      2\r\n"
+    ],
+    [
+      0.496241,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.63%              582.3 MiB / 1.954 GiB   29.10%              "
+    ],
+    [
+      4.2e-05,
+      "27.85 MB / 529.8 kB   255.8 MB / 0 B      2\r\n"
+    ],
+    [
+      0.500384,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.9e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.63%              582.3 MiB / 1.954 GiB   29.10%              27.85 MB / 529.8 kB   255.8 MB / 0 B      2\r\n"
+    ],
+    [
+      0.498534,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               "
+    ],
+    [
+      5.9e-05,
+      "MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.14%             583.3 MiB / 1.954 GiB   29.16%              27.85 MB / 529.8 kB   256.5 MB / 0 B      2\r\n"
+    ],
+    [
+      0.50468,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      6.5e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.14%             583.3 MiB / 1.954 GiB   29.16%              27.85 MB / 529.8 kB   256.5 MB / 0 B      2\r\n"
+    ],
+    [
+      0.495707,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.44%              584.5 MiB / 1.954 GiB   29.22%              27.85 MB / 529.8 kB   257 MB / 0 B        2\r\n"
+    ],
+    [
+      0.503973,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.9e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.44%              584.5 MiB / 1.954 GiB   29.22%              27.85 MB / 529.8 kB   257 MB / 0 B        2\r\n"
+    ],
+    [
+      0.495962,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        96.90%              585.5 MiB / 1.954 GiB   29.27%              27.85 MB / 529.8 kB   257.7 MB / 0 B      2\r\n"
+    ],
+    [
+      0.503133,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.6e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        96.90%              585.5 MiB / 1.954 GiB   29.27%              27.85 MB / 529.8 kB   257.7 MB / 0 B      2\r\n"
+    ],
+    [
+      0.496356,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      2.8e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        96.70%              583.6 MiB / 1.954 GiB   29.17%              27.85 MB / 529.8 kB   258.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.503423,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      7.8e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        96.70%              583.6 MiB / 1.954 GiB   29.17%              27.85 MB / 529.8 kB   258.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.49631,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.6e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.92%             584.6 MiB / 1.954 GiB   29.22%              27.85 MB / 529.8 kB   258.8 MB / 0 B      2\r\n"
+    ],
+    [
+      0.503755,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.92%             584.6 MiB / 1.954 GiB   29.22%              27.85 MB / 529.8 kB   258.8 MB / 0 B      2\r\n"
+    ],
+    [
+      0.496415,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.32%             585.7 MiB / 1.954 GiB   29.28%              27.85 MB / 529.8 kB   259.4 MB / 0 B      2\r\n"
+    ],
+    [
+      0.504386,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.2e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.32%             585.7 MiB / 1.954 GiB   29.28%              27.85 MB / 529.8 kB   259.4 MB / 0 B      2\r\n"
+    ],
+    [
+      0.495633,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.69%              586.8 MiB / 1.954 GiB   29.33%              27.85 MB / 529.8 kB   260.1 MB / 0 B      2\r\n"
+    ],
+    [
+      0.501219,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.3e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.69%              586.8 MiB / 1.954 GiB   29.33%              27.85 MB / 529.8 kB   260.1 MB / 0 B      2\r\n"
+    ],
+    [
+      0.498961,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.32%              587.8 MiB / 1.954 GiB   29.38%              27.85 MB / 529.8 kB   260.6 MB / 0 B      2\r\n"
+    ],
+    [
+      0.503273,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      6.3e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %        "
+    ],
+    [
+      3e-05,
+      "       NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.32%              587.8 MiB / 1.954 GiB   29.38%              27.85 MB / 529.8 kB   260.6 MB / 0 B      2\r\n"
+    ],
+    [
+      0.496622,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.2e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.32%              588.8 MiB / 1.954 GiB   29.43%              27.85 MB / 529.8 kB   261.1 MB / 0 B      2\r\n"
+    ],
+    [
+      0.501841,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.32%              588.8 MiB / 1.954 GiB   29.43%              27.85 MB / 529.8 kB"
+    ],
+    [
+      5.2e-05,
+      "   261.1 MB / 0 B      2\r\n"
+    ],
+    [
+      0.498391,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.32%              588.8 MiB / 1.954 GiB   29.43%              27.85 MB / 529.8 kB   261.1 MB / 0 B      2\r\n"
+    ],
+    [
+      0.503383,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O"
+    ],
+    [
+      5.7e-05,
+      "               BLOCK I/O           PIDS\r\n40cf74e6173b        99.81%              583.2 MiB / 1.954 GiB   29.15%              27.85 MB / 529.8 kB   261.7 MB / 0 B      2\r\n"
+    ],
+    [
+      0.495867,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.22%              584.3 MiB / 1.954 GiB   29.20%              27.85 MB / 529.8 kB   262.4 MB / 0 B      2\r\n"
+    ],
+    [
+      0.500139,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.9e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.22%              584.3 MiB / 1.954 GiB   29.20%              27.85 MB / 529.8 kB   262.4 MB / 0 B      2\r\n"
+    ],
+    [
+      0.503359,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      3.4e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.28%             585.4 MiB / 1.954 GiB   29.26%              27.85 MB / 529.8 kB   263 MB / 0 B        2\r\n"
+    ],
+    [
+      0.499856,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      3.8e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.28%             585.4 MiB / 1.954 GiB"
+    ],
+    [
+      1.7e-05,
+      "   29.26%              27.85 MB / 529.8 kB   263 MB / 0 B        2\r\n"
+    ],
+    [
+      0.497894,
+      "\u001b[2J\u001b[HCONTAINER"
+    ],
+    [
+      5.3e-05,
+      "           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        97.32%              586.5 MiB / 1.954 GiB   29.31%              27.85 MB / 529.8 kB   263.6 MB / 0 B      2\r\n"
+    ],
+    [
+      0.501471,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        97.32%              "
+    ],
+    [
+      6.2e-05,
+      "586.5 MiB / 1.954 GiB   29.31%              27.85 MB / 529.8 kB   263.6 MB / 0 B      2\r\n"
+    ],
+    [
+      0.498317,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %        "
+    ],
+    [
+      5.7e-05,
+      "       NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.63%              587.5 MiB / 1.954 GiB   29.36%              27.85 MB / 529.8 kB   264.1 MB / 0 B      2\r\n"
+    ],
+    [
+      0.499612,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %        "
+    ],
+    [
+      0.000126,
+      "       NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.63%              587.5 MiB / 1.954 GiB   29.36%              27.85 MB / 529.8 kB   264.1 MB / 0 B      2\r\n"
+    ],
+    [
+      0.49921,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.2e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.98%             588.4 MiB / 1.954 GiB   29.41%              27.85 MB / 529.8 kB   264.7 MB / 0 B      2\r\n"
+    ],
+    [
+      0.504412,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      3.5e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.98%             588.4 MiB / 1.954 GiB   29.41%              27.85 MB / 529.8 kB   "
+    ],
+    [
+      2.6e-05,
+      "264.7 MB / 0 B      2\r\n"
+    ],
+    [
+      0.495036,
+      "\u001b[2J\u001b[HCONTAINER"
+    ],
+    [
+      5.6e-05,
+      "           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.61%             589.5 MiB / 1.954 GiB   29.47%              27.85 MB / 529.8 kB   265.3 MB / 0 B      2\r\n"
+    ],
+    [
+      0.505134,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.61%             589.5 MiB / 1.954 GiB   29.47%              27.85 MB / 529.8 kB   265.3 MB / 0 B      2\r\n"
+    ],
+    [
+      0.495643,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.10%             590.6 MiB / 1.954 GiB   29.52%              27.85 MB / 529.8 kB   266 MB / 0 B"
+    ],
+    [
+      5.1e-05,
+      "        2\r\n"
+    ],
+    [
+      0.501539,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.3e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.10%             590.6 MiB / 1.954 GiB   29.52%              27.85 MB / 529.8 kB   266 MB / 0 B        2\r\n"
+    ],
+    [
+      0.498355,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.7e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        96.28%              591.5 MiB / 1.954 GiB   29.57%              27.85 MB / 529.8 kB   266.4 MB / 0 B      2\r\n"
+    ],
+    [
+      0.503061,
+      "\u001b[2J\u001b[HCONTAINER        "
+    ],
+    [
+      4.8e-05,
+      "   CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        96.28%              591.5 MiB / 1.954 GiB   29.57%              27.85 MB / 529.8 kB   266.4 MB / 0 B      2\r\n"
+    ],
+    [
+      0.496756,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               "
+    ],
+    [
+      4.5e-05,
+      "BLOCK I/O           PIDS\r\n40cf74e6173b        98.48%              592 MiB / 1.954 GiB   29.59%              27.85 MB / 529.8 kB   266.5 MB / 0 B      2\r\n"
+    ],
+    [
+      0.50297,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.48%              592 MiB / 1.954 GiB   29.59%              27.85 MB / 529.8 kB   266.5 MB / 0 B      2\r\n"
+    ],
+    [
+      0.498486,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.48%              592 MiB / 1.954 GiB   29.59%              27.85 MB / 529.8 kB   266.5 MB / 0 B      2\r\n"
+    ],
+    [
+      0.501285,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %        "
+    ],
+    [
+      4.9e-05,
+      "       NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.60%             585.5 MiB / 1.954 GiB   29.27%              27.85 MB / 529.8 kB   266.7 MB / 0 B      2\r\n"
+    ],
+    [
+      0.497333,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        96.46%              586.1 MiB / 1.954 GiB   29.30%              27.85 MB / 529.8 kB   266.8 MB / 0 B      2\r\n"
+    ],
+    [
+      0.50164,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %"
+    ],
+    [
+      4.6e-05,
+      "               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        96.46%              586.1 MiB / 1.954 GiB   29.30%              27.85 MB / 529.8 kB   266.8 MB / 0 B      2\r\n"
+    ],
+    [
+      0.500629,
+      "\u001b[2J\u001b[HCONTAINER           CPU %"
+    ],
+    [
+      3.4e-05,
+      "               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.12%             586.8 MiB / 1.954 GiB   29.33%              27.85 MB / 529.8 kB   267 MB / 0 B        2\r\n"
+    ],
+    [
+      0.50097,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      6.2e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               "
+    ],
+    [
+      0.000111,
+      "NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.12%             586.8 MiB / 1.954 GiB   29.33%              27.85 MB / 529.8 kB   267 MB / 0 B        2\r\n"
+    ],
+    [
+      0.495704,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               "
+    ],
+    [
+      4.6e-05,
+      "MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        96.97%              587.4 MiB / 1.954 GiB   29.36%              27.85 MB / 529.8 kB   267.1 MB / 0 B      2\r\n"
+    ],
+    [
+      0.504443,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b"
+    ],
+    [
+      6.9e-05,
+      "        96.97%              587.4 MiB / 1.954 GiB   29.36%              27.85 MB / 529.8 kB   267.1 MB / 0 B      2\r\n"
+    ],
+    [
+      0.495336,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        97.75%              588.2 MiB / 1.954 GiB   29.40%              "
+    ],
+    [
+      5.6e-05,
+      "27.85 MB / 529.8 kB   267.3 MB / 0 B      2\r\n"
+    ],
+    [
+      0.502953,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.9e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        97.75%              588.2 MiB / 1.954 GiB   29.40%              27.85 MB / 529.8 kB   267.3 MB / 0 B      2\r\n"
+    ],
+    [
+      0.497187,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.5e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.58%              588.8 MiB / 1.954 GiB   29.43%              27.85 MB / 529.8 kB   267.5 MB / 0 B      2\r\n"
+    ],
+    [
+      0.503297,
+      "\u001b[2J\u001b[HCONTAINER           CPU %"
+    ],
+    [
+      4.7e-05,
+      "               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.58%              588.8 MiB / 1.954 GiB   29.43%              27.85 MB / 529.8 kB   267.5 MB / 0 B      2\r\n"
+    ],
+    [
+      0.49714,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.5e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.03%              589.4 MiB / 1.954 GiB   29.46%              27.85 MB / 529.8 kB   267.6 MB / 0 B      2\r\n"
+    ],
+    [
+      0.503765,
+      "\u001b[2J\u001b[HCONTAINER"
+    ],
+    [
+      4.8e-05,
+      "           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.03%              589.4 MiB / 1.954 GiB   29.46%              27.85 MB / 529.8 kB   267.6 MB / 0 B      2\r\n"
+    ],
+    [
+      0.495428,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           "
+    ],
+    [
+      3e-05,
+      "PIDS\r\n40cf74e6173b        97.24%              589.9 MiB / 1.954 GiB   29.49%              27.85 MB / 529.8 kB   267.8 MB / 0 B      2\r\n"
+    ],
+    [
+      0.504269,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O"
+    ],
+    [
+      5.1e-05,
+      "           PIDS\r\n40cf74e6173b        97.24%              589.9 MiB / 1.954 GiB   29.49%              27.85 MB / 529.8 kB   267.8 MB / 0 B      2\r\n"
+    ],
+    [
+      0.496773,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      6.9e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.20%              590.5 MiB / 1.954 GiB   29.51%              27.85 MB / 529.8 kB   268 MB / 0 B        2\r\n"
+    ],
+    [
+      0.502859,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.4e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.20%              590.5 MiB / 1.954 GiB   29.51%              27.85 MB / 529.8 kB   268 MB / 0 B        2\r\n"
+    ],
+    [
+      0.496633,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        97.92%              591 MiB / 1.954 GiB   29.54%              27.85 MB / 529.8 kB   268.1 MB / 0 B      2\r\n"
+    ],
+    [
+      0.50302,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        97.92%              591 MiB / 1.954 GiB   29.54%              27.85 MB / 529.8 kB   268.1 MB / 0 B      2\r\n"
+    ],
+    [
+      0.49682,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.33%              589.1 MiB / 1.954 GiB   29.45%              27.85 MB / 529.8 kB   268.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.502807,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.6e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.33%              589.1 MiB / 1.954 GiB   29.45%              27.85 MB / 529.8 kB   268.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.4967,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.03%              589.7 MiB / 1.954 GiB   29.47%              27.85 MB / 529.8 kB   268.5 MB / 0 B      2\r\n"
+    ],
+    [
+      0.503948,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.7e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b"
+    ],
+    [
+      3.7e-05,
+      "        99.03%              589.7 MiB / 1.954 GiB   29.47%              27.85 MB / 529.8 kB   268.5 MB / 0 B      2\r\n"
+    ],
+    [
+      0.495978,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.47%              590.3 MiB / 1.954 GiB   29.50%              27.85 MB / 529.8 kB   268.6 MB / 0 B      2\r\n"
+    ],
+    [
+      0.503321,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      3e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.47%              590.3 MiB / 1.954 GiB   29.50%              27.85 MB / 529.8 kB   268.6 MB / 0 B      2\r\n"
+    ],
+    [
+      0.496402,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.9e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        95.81%              590.9 MiB / 1.954 GiB   29.53%              27.85 MB / 529.8 kB   268.8 MB / 0 B      2"
+    ],
+    [
+      3.4e-05,
+      "\r\n"
+    ],
+    [
+      0.504962,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        95.81%              590.9 MiB / 1.954 GiB   29.53%              27.85 MB / 529.8 kB   268.8 MB / 0 B      2\r\n"
+    ],
+    [
+      0.496597,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        95.81%              590.9 MiB / 1.954 GiB   29.53%              27.85 MB / 529.8 kB   268.8 MB / 0 B      2\r\n"
+    ],
+    [
+      0.499377,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.57%              591.3 MiB / 1.954 GiB   29.56%              27.85 MB / 529.8 kB   268.9 MB / 0 B      2\r\n"
+    ],
+    [
+      0.499877,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      6.6e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.69%              591.9 MiB / 1.954 GiB   29.59%              27.85 MB / 529.8 kB   269.1 MB / 0 B      2\r\n"
+    ],
+    [
+      0.502972,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.69%              591.9 MiB / 1.954 GiB   29.59%              27.85 MB / 529.8 kB   269.1 MB / 0 B      2\r\n"
+    ],
+    [
+      0.498442,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.00%              592.5 MiB / 1.954 GiB   29.62%              27.85 MB / 529.8 kB   269.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.500118,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.00%              592.5 MiB / 1.954 GiB"
+    ],
+    [
+      5.6e-05,
+      "   29.62%              27.85 MB / 529.8 kB   269.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.497953,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.98%              593.2 MiB / 1.954 GiB   29.65%              27.85 MB / 529.8 kB   269.4 MB / 0 B      2\r\n"
+    ],
+    [
+      0.502522,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.98%              593.2 MiB / 1.954 GiB   29.65%              27.85 MB / 529.8 kB   269.4 MB / 0 B      2\r\n"
+    ],
+    [
+      0.497315,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.19%              593.6 MiB / 1.954 GiB   29.67%              27.85 MB / 529.8 kB   269.5 MB / 0 B      2\r\n"
+    ],
+    [
+      0.501064,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.2e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.19%              593.6 MiB / 1.954 GiB   29.67%              27.85 MB / 529.8 kB   269.5 MB / 0 B      2\r\n"
+    ],
+    [
+      0.498826,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.30%              594.2 MiB / 1.954 GiB   29.70%              27.85 MB / 529.8 kB   269.6 MB / 0 B      2\r\n"
+    ],
+    [
+      0.503519,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O"
+    ],
+    [
+      4.8e-05,
+      "               BLOCK I/O           PIDS\r\n40cf74e6173b        99.30%              594.2 MiB / 1.954 GiB   29.70%              27.85 MB / 529.8 kB   269.6 MB / 0 B      2\r\n"
+    ],
+    [
+      0.496475,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        97.99%              594.9 MiB / 1.954 GiB   29.73%              27.85 MB / 529.8 kB   269.9 MB / 0 B      2\r\n"
+    ],
+    [
+      0.503989,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.8e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        97.99%              594.9 MiB / 1.954 GiB   29.73%              27.85 MB / 529.8 kB   269.9 MB / 0 B      2\r\n"
+    ],
+    [
+      0.495799,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.54%        "
+    ],
+    [
+      5.1e-05,
+      "     595.4 MiB / 1.954 GiB   29.76%              27.85 MB / 529.8 kB   270 MB / 0 B        2\r\n"
+    ],
+    [
+      0.503818,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.54%             595.4 MiB / 1.954 GiB   29.76%              27.85 MB / 529.8 kB   270 MB / 0 B        2\r\n"
+    ],
+    [
+      0.496121,
+      "\u001b[2J\u001b[HCONTAINER        "
+    ],
+    [
+      6.1e-05,
+      "   CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.27%              595.9 MiB / 1.954 GiB   29.79%              27.85 MB / 529.8 kB   270.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.505135,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.27%              595.9 MiB / 1.954 GiB   29.79%              27.85 MB / 529.8 kB   270.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.495209,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        97.07%              596.6 MiB / 1.954 GiB   29.82%              27.85 MB / 529.8 kB   270.4 MB / 0 B      2\r\n"
+    ],
+    [
+      0.502996,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      7.9e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT"
+    ],
+    [
+      3.2e-05,
+      "       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        97.07%              596.6 MiB / 1.954 GiB   29.82%              27.85 MB / 529.8 kB   270.4 MB / 0 B      2\r\n"
+    ],
+    [
+      0.496787,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      3.1e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.13%             597.1 MiB / 1.954 GiB   29.84%              27.85 MB / 529.8 kB   270.6 MB / 0 B      2\r\n"
+    ],
+    [
+      0.501691,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.13%             597.1 MiB / 1.954 GiB   29.84%              "
+    ],
+    [
+      5.8e-05,
+      "27.85 MB / 529.8 kB   270.6 MB / 0 B      2\r\n"
+    ],
+    [
+      0.498482,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.13%             597.1 MiB / 1.954 GiB   29.84%              27.85 MB / 529.8 kB   270.6 MB / 0 B      2\r\n"
+    ],
+    [
+      0.503861,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.3e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        97.15%              597.7 MiB / 1.954 GiB   29.88%              27.85 MB / 529.8 kB   270.7 MB / 0 B      2\r\n"
+    ],
+    [
+      0.4964,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        97.83%              598.2 MiB / 1.954 GiB   29.90%              27.85 MB / 529.8 kB   270.9 MB / 0 B      2\r\n"
+    ],
+    [
+      0.504033,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        97.83%              598.2 MiB / 1.954 GiB   29.90%              27.85 MB / 529.8 kB   270.9 MB / 0 B      2\r\n"
+    ],
+    [
+      0.49901,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.8e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.87%             598.8 MiB / 1.954 GiB   29.93%              "
+    ],
+    [
+      4.5e-05,
+      "27.85 MB / 529.8 kB   271.1 MB / 0 B      2\r\n"
+    ],
+    [
+      0.499276,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.87%             598.8 MiB / 1.954 GiB   29.93%              27.85 MB / 529.8 kB"
+    ],
+    [
+      5.1e-05,
+      "   271.1 MB / 0 B      2\r\n"
+    ],
+    [
+      0.496873,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.87%             598.8 MiB / 1.954 GiB   29.93%              27.85 MB / 529.8 kB   271.1 MB / 0 B      2\r\n"
+    ],
+    [
+      0.501534,
+      "\u001b[2J\u001b[HCONTAINER"
+    ],
+    [
+      4.2e-05,
+      "           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.96%              592.7 MiB / 1.954 GiB   29.63%              27.85 MB / 529.8 kB   271.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.498534,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               "
+    ],
+    [
+      6.5e-05,
+      "NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        96.11%              593.4 MiB / 1.954 GiB   29.66%              27.85 MB / 529.8 kB   271.4 MB / 0 B      2\r\n"
+    ],
+    [
+      0.503371,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      6.5e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        96.11%              593.4 MiB / 1.954 GiB   29.66%              27.85 MB / 529.8 kB   271.4 MB / 0 B      2\r\n"
+    ],
+    [
+      0.498024,
+      "\u001b[2J\u001b[HCONTAINER           CPU %"
+    ],
+    [
+      4.6e-05,
+      "               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.71%              593.9 MiB / 1.954 GiB   29.69%              27.85 MB / 529.8 kB   271.6 MB / 0 B      2\r\n"
+    ],
+    [
+      0.502568,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.4e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.71%              593.9 MiB / 1.954 GiB   29.69%              27.85 MB / 529.8 kB   271.6 MB / 0 B      2\r\n"
+    ],
+    [
+      0.496265,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.2e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        97.76%              594.5 MiB / 1.954 GiB   29.72%              27.85 MB / 529.8 kB   271.7 MB / 0 B      2\r\n"
+    ],
+    [
+      0.502116,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.9e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        97.76%              594.5 MiB / 1.954 GiB   29.72%              27.85 MB / 529.8 kB   271.7 MB / 0 B      2\r\n"
+    ],
+    [
+      0.49801,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.8e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.31%              595 MiB / 1.954 GiB   29.74%              27.85 MB / 529.8 kB   271.9 MB / 0 B      2\r\n"
+    ],
+    [
+      0.500682,
+      "\u001b[2J\u001b[HCONTAINER        "
+    ],
+    [
+      4.6e-05,
+      "   CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.31%              595 MiB / 1.954 GiB   29.74%              27.85 MB / 529.8 kB   271.9 MB / 0 B      2\r\n"
+    ],
+    [
+      0.499126,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        97.10%              595.5 MiB / 1.954 GiB"
+    ],
+    [
+      4.6e-05,
+      "   29.77%              27.85 MB / 529.8 kB   272 MB / 0 B        2\r\n"
+    ],
+    [
+      0.499698,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      6.2e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        97.10%              595.5 MiB / 1.954 GiB   29.77%              27.85 MB / 529.8 kB   272 MB / 0 B        2\r\n"
+    ],
+    [
+      0.499969,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %"
+    ],
+    [
+      8.9e-05,
+      "               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.99%              596.1 MiB / 1.954 GiB   29.80%              27.85 MB / 529.8 kB   272.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.503641,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.99%              596.1 MiB / 1.954 GiB   29.80%              27.85 MB / 529.8 kB   272.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.495559,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.2e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.64%              596.5 MiB / 1.954 GiB   29.82%              27.85 MB / 529.8 kB   272.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.502804,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.64%              596.5 MiB / 1.954 GiB   29.82%              27.85 MB / 529.8 kB   272.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.497854,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.38%        "
+    ],
+    [
+      5.4e-05,
+      "      597.1 MiB / 1.954 GiB   29.85%              27.85 MB / 529.8 kB   272.4 MB / 0 B      2\r\n"
+    ],
+    [
+      0.500615,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.38%              597.1 MiB / 1.954 GiB   29.85%              27.85 MB / 529.8 kB   272.4 MB / 0 B      2\r\n"
+    ],
+    [
+      0.499316,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.26%              597.7 MiB / 1.954 GiB   29.87%              27.85 MB / 529.8 kB   272.6 MB / 0 B      2\r\n"
+    ],
+    [
+      0.50179,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.26%              597.7 MiB / 1.954 GiB   29.87%              27.85 MB / 529.8 kB   272.6 MB / 0 B      2\r\n"
+    ],
+    [
+      0.497491,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        "
+    ],
+    [
+      4.9e-05,
+      "98.70%              598.3 MiB / 1.954 GiB   29.91%              27.85 MB / 529.8 kB   272.7 MB / 0 B      2\r\n"
+    ],
+    [
+      0.504186,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.70%              598.3 MiB / 1.954 GiB   29.91%              27.85 MB / 529.8 kB   272.7 MB / 0 B      2\r\n"
+    ],
+    [
+      0.496136,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.19%              598.9 MiB / 1.954 GiB   29.93%              27.85 MB / 529.8 kB"
+    ],
+    [
+      5.3e-05,
+      "   272.9 MB / 0 B      2\r\n"
+    ],
+    [
+      0.502276,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      3.6e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.19%              598.9 MiB / 1.954 GiB   29.93%              27.85 MB / 529.8 kB   272.9 MB / 0 B      2\r\n"
+    ],
+    [
+      0.497267,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        97.81%              599.4 MiB / 1.954 GiB   29.96%              27.85 MB / 529.8 kB   273.1 MB / 0 B      2\r\n"
+    ],
+    [
+      0.501559,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               "
+    ],
+    [
+      3e-05,
+      "NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        97.81%              599.4 MiB / 1.954 GiB   29.96%              27.85 MB / 529.8 kB   273.1 MB / 0 B      2\r\n"
+    ],
+    [
+      0.498851,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.17%              600 MiB / 1.954 GiB   29.99%              27.85 MB / 529.8 kB   273.3 MB / 0 B      2\r\n"
+    ],
+    [
+      0.502346,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.17%              600 MiB / 1.954 GiB   29.99%              27.85 MB / 529.8 kB   273.3 MB / 0 B      2\r\n"
+    ],
+    [
+      0.497441,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.76%             600.5 MiB / 1.954 GiB   30.01%              27.85 MB / 529.8 kB   273.4 MB / 0 B      2\r\n"
+    ],
+    [
+      0.503779,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.76%             600.5 MiB / 1.954 GiB   30.01%              27.85 MB / 529.8 kB   273.4 MB / 0 B      2\r\n"
+    ],
+    [
+      0.496653,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.70%              601 MiB / 1.954 GiB   30.04%              27.85 MB / 529.8 kB   273.5 MB / 0 B      "
+    ],
+    [
+      4.7e-05,
+      "2\r\n"
+    ],
+    [
+      0.50078,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.70%              601 MiB / 1.954 GiB   30.04%              27.85 MB / 529.8 kB   273.5 MB / 0 B      2\r\n"
+    ],
+    [
+      0.498575,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.46%              601.6 MiB / 1.954 GiB   30.07%              27.85 MB / 529.8 kB   273.7 MB / 0 B      "
+    ],
+    [
+      5.2e-05,
+      "2\r\n"
+    ],
+    [
+      0.500942,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      7.1e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.46%              601.6 MiB / 1.954 GiB   30.07%              27.85 MB / 529.8 kB   273.7 MB / 0 B      2\r\n"
+    ],
+    [
+      0.498809,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.46%              601.6 MiB / 1.954 GiB   30.07%              27.85 MB / 529.8 kB   273.7 MB / 0 B      2\r\n"
+    ],
+    [
+      0.499995,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.8e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.56%              602.2 MiB / 1.954 GiB   30.10%              27.85 MB / 529.8 kB   273.8 MB / 0 B      2\r\n"
+    ],
+    [
+      0.499881,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O"
+    ],
+    [
+      7.1e-05,
+      "               BLOCK I/O           PIDS\r\n40cf74e6173b        99.16%              596 MiB / 1.954 GiB   29.79%              27.85 MB / 529.8 kB   274 MB / 0 B        2\r\n"
+    ],
+    [
+      0.503871,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.3e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.16%              596 MiB / 1.954 GiB   29.79%              27.85 MB / 529.8 kB   274 MB / 0 B        2\r\n"
+    ],
+    [
+      0.497389,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.16%              596 MiB / 1.954 GiB   29.79%              27.85 MB / 529.8 kB   274 MB / 0 B        2\r\n"
+    ],
+    [
+      0.502073,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.1e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.38%              596.5 MiB / 1.954 GiB   29.82%              27.85 MB / 529.8 kB   274.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.497908,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.38%              596.5 MiB / 1.954 GiB   29.82%              27.85 MB / 529.8 kB   274.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.500954,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        97.95%              597.1 MiB / 1.954 GiB   29.84%              27.85 MB / 529.8 kB   274.3 MB / 0 B      2\r\n"
+    ],
+    [
+      0.502087,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.31%              597.6 MiB / 1.954 GiB   29.87%              27.85 MB / 529.8 kB   274.5 MB / 0 B      2\r\n"
+    ],
+    [
+      0.49709,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.1e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.31%              597.6 MiB / 1.954 GiB   29.87%              27.85 MB / 529.8 kB   274.5 MB / 0 B      2\r\n"
+    ],
+    [
+      0.502846,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               "
+    ],
+    [
+      3.9e-05,
+      "BLOCK I/O           PIDS\r\n40cf74e6173b        98.11%              598.3 MiB / 1.954 GiB   29.90%              27.85 MB / 529.8 kB   274.7 MB / 0 B      2\r\n"
+    ],
+    [
+      0.499166,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.9e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.11%              598.3 MiB / 1.954 GiB   29.90%              27.85 MB / 529.8 kB"
+    ],
+    [
+      4.5e-05,
+      "   274.7 MB / 0 B      2\r\n"
+    ],
+    [
+      0.497009,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.2e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.59%              598.8 MiB / 1.954 GiB   29.93%              27.85 MB / 529.8 kB   274.8 MB / 0 B      2\r\n"
+    ],
+    [
+      0.501943,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.59%              598.8 MiB / 1.954 GiB   29.93%              27.85 MB / 529.8 kB   274.8 MB / 0 B      2\r\n"
+    ],
+    [
+      0.497351,
+      "\u001b[2J\u001b[HCONTAINER           CPU %        "
+    ],
+    [
+      4.7e-05,
+      "       MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.67%              599.4 MiB / 1.954 GiB   29.96%              27.85 MB / 529.8 kB   275 MB / 0 B        2\r\n"
+    ],
+    [
+      0.502625,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.67%              599.4 MiB / 1.954 GiB   29.96%              27.85 MB / 529.8 kB   275 MB / 0 B        2\r\n"
+    ],
+    [
+      0.497922,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.67%              599.4 MiB / 1.954 GiB   29.96%              27.85 MB / 529.8 kB   275 MB / 0 B        2\r\n"
+    ],
+    [
+      0.502988,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O"
+    ],
+    [
+      2.7e-05,
+      "           PIDS\r\n40cf74e6173b        99.07%              600 MiB / 1.954 GiB   29.99%              27.85 MB / 529.8 kB   275.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.496827,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT"
+    ],
+    [
+      5.2e-05,
+      "     MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.07%              600 MiB / 1.954 GiB   29.99%              27.85 MB / 529.8 kB   275.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.502978,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT"
+    ],
+    [
+      6.2e-05,
+      "       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        97.92%              600.7 MiB / 1.954 GiB   30.03%              27.85 MB / 529.8 kB   275.4 MB / 0 B      2\r\n"
+    ],
+    [
+      0.499109,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %        "
+    ],
+    [
+      4.8e-05,
+      "       NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        97.47%              601.5 MiB / 1.954 GiB   30.06%              27.85 MB / 529.8 kB   275.9 MB / 0 B      2\r\n"
+    ],
+    [
+      0.501979,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        97.47%              601.5 MiB / 1.954 GiB   30.06%              27.85 MB / 529.8 kB   275.9 MB / 0 B      2\r\n"
+    ],
+    [
+      0.50012,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.55%              601.8 MiB / 1.954 GiB   30.08%              27.85 MB / 529.8 kB   276 MB / 0 B        2\r\n"
+    ],
+    [
+      0.496475,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.55%              601.8 MiB / 1.954 GiB   30.08%              27.85 MB / 529.8 kB   276 MB / 0 B        2\r\n"
+    ],
+    [
+      0.499006,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.84%              602.1 MiB / 1.954 GiB   30.09%              27.85 MB / 529.8 kB   276.1 MB / 0 B      2\r\n"
+    ],
+    [
+      0.504769,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.84%              602.1 MiB / 1.954 GiB   30.09%              27.85 MB / 529.8 kB   276.1 MB / 0 B      2\r\n"
+    ],
+    [
+      0.498895,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      7.4e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        96.14%              602.6 MiB / 1.954 GiB   30.12%        "
+    ],
+    [
+      4.4e-05,
+      "      27.85 MB / 529.8 kB   276.3 MB / 0 B      2\r\n"
+    ],
+    [
+      0.49918,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.1e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        96.14%              602.6 MiB / 1.954 GiB   30.12%              27.85 MB / 529.8 kB   276.3 MB / 0 B      2\r\n"
+    ],
+    [
+      0.49663,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.99%              603 MiB / 1.954 GiB   30.14%              27.85 MB / 529.8 kB   276.5 MB / 0 B      2\r\n"
+    ],
+    [
+      0.502968,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.3e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.99%              603 MiB / 1.954 GiB   30.14%              27.85 MB / 529.8 kB   276.5 MB / 0 B      2\r\n"
+    ],
+    [
+      0.497749,
+      "\u001b[2J\u001b[HCONTAINER        "
+    ],
+    [
+      6.9e-05,
+      "   CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.45%              603.5 MiB / 1.954 GiB   30.16%              27.85 MB / 529.8 kB   276.7 MB / 0 B      2\r\n"
+    ],
+    [
+      0.499511,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.2e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.45%              603.5 MiB / 1.954 GiB   30.16%              27.85 MB / 529.8 kB   276.7 MB / 0 B      "
+    ],
+    [
+      2.8e-05,
+      "2\r\n"
+    ],
+    [
+      0.500386,
+      "\u001b[2J\u001b[HCONTAINER"
+    ],
+    [
+      5.5e-05,
+      "           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        96.81%              603.9 MiB / 1.954 GiB   30.18%              27.85 MB / 529.8 kB   276.8 MB / 0 B      2\r\n"
+    ],
+    [
+      0.503878,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        96.81%              603.9 MiB / 1.954 GiB   30.18%              27.85 MB / 529.8 kB   276.8 MB / 0 B      2\r\n"
+    ],
+    [
+      0.49635,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.6e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.00%             604.7 MiB / 1.954 GiB   30.23%              27.85 MB / 529.8 kB   277.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.503398,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.6e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.00%             604.7 MiB / 1.954 GiB   30.23%              27.85 MB / 529.8 kB   277.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.49559,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.4e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.23%             605.4 MiB / 1.954 GiB   30.26%              27.85 MB / 529.8 kB   277.5 MB / 0 B      2\r\n"
+    ],
+    [
+      0.501409,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.23%             605.4 MiB / 1.954 GiB   30.26%              27.85 MB / 529.8 kB   277.5 MB / 0 B      2\r\n"
+    ],
+    [
+      0.499194,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.3e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        102.62%             606.2 MiB / 1.954 GiB   30.30%              "
+    ],
+    [
+      3.1e-05,
+      "27.85 MB / 529.8 kB   277.8 MB / 0 B      2\r\n"
+    ],
+    [
+      0.499246,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      3.6e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        102.62%             606.2 MiB / 1.954 GiB   30.30%              27.85 MB / 529.8 kB   277.8 MB / 0 B      2\r\n"
+    ],
+    [
+      0.499756,
+      "\u001b[2J\u001b[HCONTAINER           "
+    ],
+    [
+      4.4e-05,
+      "CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        102.62%             606.2 MiB / 1.954 GiB   30.30%              27.85 MB / 529.8 kB   277.8 MB / 0 B      2\r\n"
+    ],
+    [
+      0.504634,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.1e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        104.44%             600.2 MiB / 1.954 GiB   30.00%              27.85 MB / 529.8 kB   278.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.496149,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT     MEM %"
+    ],
+    [
+      5.9e-05,
+      "               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.46%             601 MiB / 1.954 GiB   30.04%              27.85 MB / 529.8 kB   278.6 MB / 0 B      2\r\n"
+    ],
+    [
+      0.502343,
+      "\u001b[2J\u001b[HCONTAINER           "
+    ],
+    [
+      6.7e-05,
+      "CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.46%             601 MiB / 1.954 GiB   30.04%              27.85 MB / 529.8 kB   278.6 MB / 0 B      2\r\n"
+    ],
+    [
+      0.497526,
+      "\u001b[2J\u001b[HCONTAINER"
+    ],
+    [
+      5.8e-05,
+      "           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.35%             601.8 MiB / 1.954 GiB   30.08%              27.85 MB / 529.8 kB   279 MB / 0 B        2\r\n"
+    ],
+    [
+      0.500685,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.2e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.35%             601.8 MiB / 1.954 GiB   30.08%              27.85 MB / 529.8 kB   279 MB / 0 B        2\r\n"
+    ],
+    [
+      0.498758,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               "
+    ],
+    [
+      4.8e-05,
+      "MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        97.48%              602.5 MiB / 1.954 GiB   30.11%              27.85 MB / 529.8 kB   279.3 MB / 0 B      2\r\n"
+    ],
+    [
+      0.499593,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.8e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        97.48%              602.5 MiB / 1.954 GiB   30.11%              27.85 MB / 529.8 kB   279.3 MB / 0 B      2\r\n"
+    ],
+    [
+      0.499876,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               "
+    ],
+    [
+      4.3e-05,
+      "NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.22%              603.3 MiB / 1.954 GiB   30.15%              27.85 MB / 529.8 kB   279.7 MB / 0 B      2\r\n"
+    ],
+    [
+      0.504432,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.22%              603.3 MiB / 1.954 GiB   30.15%              27.85 MB / 529.8 kB   279.7 MB / 0 B      2\r\n"
+    ],
+    [
+      0.495676,
+      "\u001b[2J\u001b[HCONTAINER           CPU %"
+    ],
+    [
+      5.4e-05,
+      "               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.58%             601.8 MiB / 1.954 GiB   30.08%              27.85 MB / 529.8 kB   280.1 MB / 0 B      2\r\n"
+    ],
+    [
+      0.500779,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.58%             601.8 MiB / 1.954 GiB   30.08%              27.85 MB / 529.8 kB   280.1 MB / 0 B      2\r\n"
+    ],
+    [
+      0.499537,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.00%             602.6 MiB / 1.954 GiB   30.12%              27.85 MB / 529.8 kB   280.4 MB / 0 B      2\r\n"
+    ],
+    [
+      0.503102,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       "
+    ],
+    [
+      0.000106,
+      "MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.00%             602.6 MiB / 1.954 GiB   30.12%              27.85 MB / 529.8 kB   280.4 MB / 0 B      2\r\n"
+    ],
+    [
+      0.496678,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      9.4e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.02%             603.3 MiB / 1.954 GiB   30.15%        "
+    ],
+    [
+      3.7e-05,
+      "      27.85 MB / 529.8 kB   280.7 MB / 0 B      2\r\n"
+    ],
+    [
+      0.502598,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.4e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.02%             603.3 MiB / 1.954 GiB   30.15%              27.85 MB / 529.8 kB   280.7 MB / 0 B      2\r\n"
+    ],
+    [
+      0.496844,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      3.8e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.79%             604.1 MiB / 1.954 GiB   30.20%              27.85 MB / 529.8 kB   281.1 MB / 0 B      2\r\n"
+    ],
+    [
+      0.504036,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      6.3e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               "
+    ],
+    [
+      2.8e-05,
+      "NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.79%             604.1 MiB / 1.954 GiB   30.20%              27.85 MB / 529.8 kB   281.1 MB / 0 B      2\r\n"
+    ],
+    [
+      0.49632,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.60%              604.8 MiB / 1.954 GiB   30.23%              27.85 MB / 529.8 kB   281.5 MB / 0 B      2\r\n"
+    ],
+    [
+      0.502074,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.5e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.60%              604.8 MiB / 1.954 GiB   30.23%              27.85 MB / 529.8 kB   281.5 MB / 0 B"
+    ],
+    [
+      3.1e-05,
+      "      2\r\n"
+    ],
+    [
+      0.499235,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        97.91%              605.7 MiB / 1.954 GiB   30.27%              "
+    ],
+    [
+      5.1e-05,
+      "27.85 MB / 529.8 kB   281.8 MB / 0 B      2\r\n"
+    ],
+    [
+      0.502365,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.4e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        97.91%              605.7 MiB / 1.954 GiB   30.27%              27.85 MB / 529.8 kB   281.8 MB / 0 B      2\r\n"
+    ],
+    [
+      0.496006,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        103.32%             606.3 MiB / 1.954 GiB   30.31%              27.85 MB / 529.8 kB   282.1 MB / 0 B      2\r\n"
+    ],
+    [
+      0.502845,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        103.32%             606.3 MiB / 1.954 GiB   30.31%              27.85 MB / 529.8 kB   282.1 MB / 0 B      2\r\n"
+    ],
+    [
+      0.496949,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT"
+    ],
+    [
+      4e-05,
+      "       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.26%             607.1 MiB / 1.954 GiB   30.35%              27.85 MB / 529.8 kB   282.5 MB / 0 B      2\r\n"
+    ],
+    [
+      0.503804,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.26%             607.1 MiB / 1.954 GiB   30.35%              27.85 MB / 529.8 kB   282.5 MB / 0 B      2\r\n"
+    ],
+    [
+      0.496771,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.29%             607.8 MiB / 1.954 GiB   30.38%              27.85 MB / 529.8 kB   282.8 MB / 0 B      2\r\n"
+    ],
+    [
+      0.501587,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.29%             607.8 MiB / 1.954 GiB   30.38%              27.85 MB / 529.8 kB   282.8 MB / 0 B      2\r\n"
+    ],
+    [
+      0.49838,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.29%             607.8 MiB / 1.954 GiB   30.38%              27.85 MB / 529.8 kB   282.8 MB / 0 B      2\r\n"
+    ],
+    [
+      0.501313,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT"
+    ],
+    [
+      5.4e-05,
+      "       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        103.12%             606.6 MiB / 1.954 GiB   30.32%              27.85 MB / 529.8 kB   283.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.49833,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        103.12%             606.6 MiB / 1.954 GiB"
+    ],
+    [
+      5.4e-05,
+      "   30.32%              27.85 MB / 529.8 kB   283.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.499915,
+      "\u001b[2J\u001b[HCONTAINER           "
+    ],
+    [
+      5.1e-05,
+      "CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.08%             607.3 MiB / 1.954 GiB   30.35%              27.85 MB / 529.8 kB   283.5 MB / 0 B      2\r\n"
+    ],
+    [
+      0.503983,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O"
+    ],
+    [
+      3.9e-05,
+      "               BLOCK I/O           PIDS\r\n40cf74e6173b        98.90%              608 MiB / 1.954 GiB   30.39%              27.85 MB / 529.8 kB   283.8 MB / 0 B      2\r\n"
+    ],
+    [
+      0.499292,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT     "
+    ],
+    [
+      5.2e-05,
+      "MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.90%              608 MiB / 1.954 GiB   30.39%              27.85 MB / 529.8 kB   283.8 MB / 0 B      2\r\n"
+    ],
+    [
+      0.499091,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS"
+    ],
+    [
+      2.7e-05,
+      "\r\n40cf74e6173b        100.98%             608.8 MiB / 1.954 GiB   30.43%              27.85 MB / 529.8 kB   284.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.501373,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n"
+    ],
+    [
+      4.7e-05,
+      "40cf74e6173b        100.98%             608.8 MiB / 1.954 GiB   30.43%              27.85 MB / 529.8 kB   284.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.496243,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.24%             609.5 MiB / 1.954 GiB   30.47%              27.85 MB / 529.8 kB   284.5 MB / 0 B      2\r\n"
+    ],
+    [
+      0.501371,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.24%             609.5 MiB / 1.954 GiB   30.47%              27.85 MB / 529.8 kB   284.5 MB / 0 B      2\r\n"
+    ],
+    [
+      0.497954,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      3.9e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.30%             610.2 MiB / 1.954 GiB   30.50%              27.85 MB / 529.8 kB   284.9 MB / 0 B      2\r\n"
+    ],
+    [
+      0.50172,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.30%             610.2 MiB / 1.954 GiB   30.50%              27.85 MB / 529.8 kB   284.9 MB / 0 B      2\r\n"
+    ],
+    [
+      0.498939,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b"
+    ],
+    [
+      5.5e-05,
+      "        98.48%              611 MiB / 1.954 GiB   30.54%              27.85 MB / 529.8 kB   285.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.502797,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.2e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.48%              611 MiB / 1.954 GiB   30.54%              27.85 MB / 529.8 kB   285.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.496462,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.77%             611.7 MiB / 1.954 GiB   30.57%              27.85 MB / 529.8 kB   285.5 MB / 0 B      2\r\n"
+    ],
+    [
+      0.502095,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.77%             611.7 MiB / 1.954 GiB   30.57%              27.85 MB / 529.8 kB   285.5 MB / 0 B      2\r\n"
+    ],
+    [
+      0.498473,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.5e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.79%             612.5 MiB / 1.954 GiB   30.61%              27.85 MB / 529.8 kB   285.9 MB / 0 B      2\r\n"
+    ],
+    [
+      0.499388,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.79%             612.5 MiB / 1.954 GiB   30.61%              27.85 MB / 529.8 kB   285.9 MB / 0 B      2\r\n"
+    ],
+    [
+      0.500569,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.1e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.28%             613.1 MiB / 1.954 GiB   30.65%              27.85 MB / 529.8 kB   286.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.504253,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.28%             613.1 MiB / 1.954 GiB   30.65%              27.85 MB / 529.8 kB   286.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.495477,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.26%             613.9 MiB / 1.954 GiB   30.68%              27.85 MB / 529.8 kB   286.6 MB / 0 B      2\r\n"
+    ],
+    [
+      0.504202,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.26%             613.9 MiB / 1.954 GiB   30.68%              27.85 MB / 529.8 kB   286.6 MB / 0 B      2\r\n"
+    ],
+    [
+      0.495969,
+      "\u001b[2J\u001b[HCONTAINER"
+    ],
+    [
+      4e-05,
+      "           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.59%             614.6 MiB / 1.954 GiB   30.72%              27.85 MB / 529.8 kB   286.9 MB / 0 B      2\r\n"
+    ],
+    [
+      0.503603,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.59%             614.6 MiB / 1.954 GiB   30.72%              27.85 MB / 529.8 kB   286.9 MB / 0 B      2\r\n"
+    ],
+    [
+      0.496343,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.6e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.83%             608.8 MiB / 1.954 GiB   30.43%              27.85 MB / 529.8 kB   287.3 MB / 0 B      2\r\n"
+    ],
+    [
+      0.502854,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.7e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.83%             608.8 MiB / 1.954 GiB   30.43%              27.85 MB / 529.8 kB   287.3 MB / 0 B      2\r\n"
+    ],
+    [
+      0.497015,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.9e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.68%              609.5 MiB / 1.954 GiB   30.47%              27.85 MB / 529.8 kB   287.6 MB / 0 B      2\r\n"
+    ],
+    [
+      0.504077,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.68%              609.5 MiB / 1.954 GiB   30.47%              27.85 MB / 529.8 kB   287.6 MB / 0 B      2"
+    ],
+    [
+      5.4e-05,
+      "\r\n"
+    ],
+    [
+      0.495273,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.4e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        104.20%             610.2 MiB / 1.954 GiB   30.50%              27.85 MB / 529.8 kB   288 MB / 0 B        2\r\n"
+    ],
+    [
+      0.503018,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.8e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %        "
+    ],
+    [
+      2.9e-05,
+      "       NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        104.20%             610.2 MiB / 1.954 GiB   30.50%              27.85 MB / 529.8 kB   288 MB / 0 B        2\r\n"
+    ],
+    [
+      0.497399,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.4e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.78%              611 MiB / 1.954 GiB   30.54%              27.85 MB / 529.8 kB   288.4 MB / 0 B      2\r\n"
+    ],
+    [
+      0.501039,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT     MEM %"
+    ],
+    [
+      4.7e-05,
+      "               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.78%              611 MiB / 1.954 GiB   30.54%              27.85 MB / 529.8 kB   288.4 MB / 0 B      2\r\n"
+    ],
+    [
+      0.501373,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.1e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.91%             611.8 MiB / 1.954 GiB   30.58%              27.85 MB / 529.8 kB   288.7 MB / 0 B      2\r\n"
+    ],
+    [
+      0.501002,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.2e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.91%             611.8 MiB / 1.954 GiB   30.58%              27.85 MB / 529.8 kB   288.7 MB / 0 B      2\r\n"
+    ],
+    [
+      0.496396,
+      "\u001b[2J\u001b[HCONTAINER"
+    ],
+    [
+      4.1e-05,
+      "           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.95%             612.5 MiB / 1.954 GiB   30.62%              27.85 MB / 529.8 kB   289.1 MB / 0 B      2\r\n"
+    ],
+    [
+      0.503805,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.5e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O        "
+    ],
+    [
+      3e-05,
+      "       BLOCK I/O           PIDS\r\n40cf74e6173b        100.95%             612.5 MiB / 1.954 GiB   30.62%              27.85 MB / 529.8 kB   289.1 MB / 0 B      2\r\n"
+    ],
+    [
+      0.496406,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               "
+    ],
+    [
+      4.7e-05,
+      "BLOCK I/O           PIDS\r\n40cf74e6173b        101.73%             613.2 MiB / 1.954 GiB   30.65%              27.85 MB / 529.8 kB   289.4 MB / 0 B      2\r\n"
+    ],
+    [
+      0.502042,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.73%        "
+    ],
+    [
+      3.6e-05,
+      "     613.2 MiB / 1.954 GiB   30.65%              27.85 MB / 529.8 kB   289.4 MB / 0 B      2\r\n"
+    ],
+    [
+      0.496978,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           "
+    ],
+    [
+      4.2e-05,
+      "PIDS\r\n40cf74e6173b        99.80%              614 MiB / 1.954 GiB   30.69%              27.85 MB / 529.8 kB   289.7 MB / 0 B      2\r\n"
+    ],
+    [
+      0.504194,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.80%              614 MiB / 1.954 GiB   30.69%              27.85 MB / 529.8 kB   289.7 MB / 0 B      2\r\n"
+    ],
+    [
+      0.496279,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               "
+    ],
+    [
+      4.6e-05,
+      "BLOCK I/O           PIDS\r\n40cf74e6173b        102.06%             614.7 MiB / 1.954 GiB   30.72%              27.85 MB / 529.8 kB   290 MB / 0 B        2\r\n"
+    ],
+    [
+      0.500265,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT"
+    ],
+    [
+      5.2e-05,
+      "       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        102.06%             614.7 MiB / 1.954 GiB   30.72%              27.85 MB / 529.8 kB   290 MB / 0 B        2\r\n"
+    ],
+    [
+      0.499663,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS"
+    ],
+    [
+      5.3e-05,
+      "\r\n40cf74e6173b        100.15%             615.4 MiB / 1.954 GiB   30.76%              27.85 MB / 529.8 kB   290.3 MB / 0 B      2\r\n"
+    ],
+    [
+      0.504129,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.7e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.15%             615.4 MiB / 1.954 GiB   30.76%              27.85 MB / 529.8 kB   290.3 MB / 0 B      2\r\n"
+    ],
+    [
+      0.49544,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.02%             616.1 MiB / 1.954 GiB   30.79%              27.85 MB / 529.8 kB   290.7 MB / 0 B      2\r\n"
+    ],
+    [
+      0.502552,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.8e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.02%             616.1 MiB / 1.954 GiB   30.79%              27.85 MB / 529.8 kB   290.7 MB / 0 B      2\r\n"
+    ],
+    [
+      0.498002,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.28%             616.8 MiB / 1.954 GiB   30.83%"
+    ],
+    [
+      4e-05,
+      "              27.85 MB / 529.8 kB   291.1 MB / 0 B      2\r\n"
+    ],
+    [
+      0.50056,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        101.28%             616.8 MiB / 1.954 GiB   30.83%        "
+    ],
+    [
+      4.2e-05,
+      "      27.85 MB / 529.8 kB   291.1 MB / 0 B      2\r\n"
+    ],
+    [
+      0.498751,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.7e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.96%             617.7 MiB / 1.954 GiB   30.88%              27.85 MB / 529.8 kB   291.4 MB / 0 B      2\r\n"
+    ],
+    [
+      0.499984,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      3.7e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.96%             617.7 MiB / 1.954 GiB   30.88%              27.85 MB / 529.8 kB   291.4 MB / 0 B      2\r\n"
+    ],
+    [
+      0.499779,
+      "\u001b[2J\u001b[HCONTAINER"
+    ],
+    [
+      3.4e-05,
+      "           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.76%              618.4 MiB / 1.954 GiB   30.91%              27.85 MB / 529.8 kB   291.7 MB / 0 B      2\r\n"
+    ],
+    [
+      0.504083,
+      "\u001b[2J\u001b[HCONTAINER           CPU %"
+    ],
+    [
+      7.3e-05,
+      "               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.76%              618.4 MiB / 1.954 GiB   30.91%              27.85 MB / 529.8 kB   291.7 MB / 0 B      2\r\n"
+    ],
+    [
+      0.496439,
+      "\u001b[2J\u001b[HCONTAINER           "
+    ],
+    [
+      4.1e-05,
+      "CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.02%             619.1 MiB / 1.954 GiB   30.94%              27.85 MB / 529.8 kB   292 MB / 0 B        2\r\n"
+    ],
+    [
+      0.500105,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               "
+    ],
+    [
+      4.7e-05,
+      "BLOCK I/O           PIDS\r\n40cf74e6173b        100.02%             619.1 MiB / 1.954 GiB   30.94%              27.85 MB / 529.8 kB   292 MB / 0 B        2\r\n"
+    ],
+    [
+      0.49947,
+      "\u001b[2J\u001b[HCONTAINER"
+    ],
+    [
+      4.5e-05,
+      "           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.02%             619.1 MiB / 1.954 GiB   30.94%              27.85 MB / 529.8 kB   292 MB / 0 B        2\r\n"
+    ],
+    [
+      0.499888,
+      "\u001b[2J\u001b[HCONTAINER"
+    ],
+    [
+      3.6e-05,
+      "           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        100.18%             613.1 MiB / 1.954 GiB   30.64%              27.85 MB / 529.8 kB   292.4 MB / 0 B      2\r\n"
+    ],
+    [
+      0.500028,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      6.1e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        102.96%             613.9 MiB / 1.954 GiB   30.69%"
+    ],
+    [
+      2.7e-05,
+      "              27.85 MB / 529.8 kB   292.7 MB / 0 B      2\r\n"
+    ],
+    [
+      0.501135,
+      "\u001b[2J\u001b[HCONTAINER"
+    ],
+    [
+      5.5e-05,
+      "           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        102.96%             613.9 MiB / 1.954 GiB   30.69%              27.85 MB / 529.8 kB   292.7 MB / 0 B      2\r\n"
+    ],
+    [
+      0.502986,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.3e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               "
+    ],
+    [
+      3e-05,
+      "NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        104.40%             614.5 MiB / 1.954 GiB   30.72%              27.85 MB / 529.8 kB   293.1 MB / 0 B      2\r\n"
+    ],
+    [
+      0.49915,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.3e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        104.40%             614.5 MiB / 1.954 GiB   30.72%              27.85 MB / 529.8 kB   "
+    ],
+    [
+      2.5e-05,
+      "293.1 MB / 0 B      2\r\n"
+    ],
+    [
+      0.496634,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.8e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.82%              615.3 MiB / 1.954 GiB   30.76%              27.85 MB / 529.8 kB   293.4 MB / 0 B      2\r\n"
+    ],
+    [
+      0.501836,
+      "\u001b[2J\u001b[HCONTAINER           CPU %"
+    ],
+    [
+      5.3e-05,
+      "               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        98.82%              615.3 MiB / 1.954 GiB   30.76%              27.85 MB / 529.8 kB   293.4 MB / 0 B      2\r\n"
+    ],
+    [
+      0.498199,
+      "\u001b[2J\u001b[HCONTAINER"
+    ],
+    [
+      4.3e-05,
+      "           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        102.03%             616 MiB / 1.954 GiB   30.79%              27.85 MB / 529.8 kB   293.8 MB / 0 B      2\r\n"
+    ],
+    [
+      0.500216,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b"
+    ],
+    [
+      6.1e-05,
+      "        102.03%             616 MiB / 1.954 GiB   30.79%              27.85 MB / 529.8 kB   293.8 MB / 0 B      2\r\n"
+    ],
+    [
+      0.499249,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           "
+    ],
+    [
+      5.1e-05,
+      "PIDS\r\n40cf74e6173b        99.64%              616.8 MiB / 1.954 GiB   30.83%              27.85 MB / 529.8 kB   294.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.501653,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.64%              616.8 MiB / 1.954 GiB   30.83%              27.85 MB / 529.8 kB   294.2 MB / 0 B      2\r\n"
+    ],
+    [
+      0.498401,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.5e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.34%              617.5 MiB / 1.954 GiB   30.87%              27.85 MB / 529.8 kB   294.5 MB / 0 B      2\r\n"
+    ],
+    [
+      0.503354,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.34%              617.5 MiB / 1.954 GiB   30.87%              27.85 MB / 529.8 kB   294.5 MB / 0 B      2\r\n"
+    ],
+    [
+      0.496979,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.87%              618.3 MiB / 1.954 GiB   30.90%              27.85 MB / 529.8 kB   294.8 MB / 0 B      2\r\n"
+    ],
+    [
+      0.501559,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        99.87%              618.3 MiB / 1.954 GiB   30.90%              27.85 MB / 529.8 kB   294.8 MB / 0 B"
+    ],
+    [
+      5.5e-05,
+      "      2\r\n"
+    ],
+    [
+      0.498296,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        95.12%"
+    ],
+    [
+      2.6e-05,
+      "              618.8 MiB / 1.954 GiB   30.93%              27.85 MB / 529.8 kB   295 MB / 0 B        2\r\n"
+    ],
+    [
+      0.500132,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O        "
+    ],
+    [
+      3e-05,
+      "   PIDS\r\n40cf74e6173b        95.12%              618.8 MiB / 1.954 GiB   30.93%              27.85 MB / 529.8 kB   295 MB / 0 B        2\r\n"
+    ],
+    [
+      0.499165,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %"
+    ],
+    [
+      3.4e-05,
+      "               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        15.01%              616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.502865,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        15.01%              616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.4973,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      3.4e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.502009,
+      "\u001b[2J\u001b[HCONTAINER           CPU %        "
+    ],
+    [
+      7.2e-05,
+      "       MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.498557,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %"
+    ],
+    [
+      2.7e-05,
+      "               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.502632,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       "
+    ],
+    [
+      3.3e-05,
+      "MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.500404,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      2.9e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.496876,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.500118,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.503906,
+      "\u001b[2J\u001b[HCONTAINER           "
+    ],
+    [
+      3.3e-05,
+      "CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.496755,
+      "\u001b[2J\u001b[HCONTAINER           "
+    ],
+    [
+      5.5e-05,
+      "CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.501643,
+      "\u001b[2J\u001b[HCONTAINER"
+    ],
+    [
+      4.3e-05,
+      "           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.500488,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O        "
+    ],
+    [
+      2.6e-05,
+      "       BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.499202,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %"
+    ],
+    [
+      3.4e-05,
+      "               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.497938,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      3.1e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS"
+    ],
+    [
+      1.7e-05,
+      "\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.50281,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       "
+    ],
+    [
+      3.4e-05,
+      "MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.497188,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O"
+    ],
+    [
+      2.5e-05,
+      "               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.503359,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.4e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.495639,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               "
+    ],
+    [
+      2.5e-05,
+      "MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.504231,
+      "\u001b[2J\u001b[HCONTAINER           "
+    ],
+    [
+      3.3e-05,
+      "CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.49546,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      3.8e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.504545,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.1e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.496163,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n"
+    ],
+    [
+      3.8e-05,
+      "40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.499463,
+      "\u001b[2J\u001b[HCONTAINER"
+    ],
+    [
+      3e-05,
+      "           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.501447,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.4e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.502668,
+      "\u001b[2J\u001b[HCONTAINER           CPU %        "
+    ],
+    [
+      3.3e-05,
+      "       MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.495511,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.502717,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.499489,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      2.9e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.501744,
+      "\u001b[2J\u001b[HCONTAINER"
+    ],
+    [
+      3e-05,
+      "           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.496527,
+      "\u001b[2J\u001b[HCONTAINER        "
+    ],
+    [
+      3.1e-05,
+      "   CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.503715,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               "
+    ],
+    [
+      2.9e-05,
+      "MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.497134,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.50275,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.495755,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %        "
+    ],
+    [
+      3.2e-05,
+      "       NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.502637,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      3.8e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.497603,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               "
+    ],
+    [
+      2.5e-05,
+      "MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.50272,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      3e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.497422,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS"
+    ],
+    [
+      2.6e-05,
+      "\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.501946,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.497454,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.9e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.504232,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.496321,
+      "\u001b[2J\u001b[HCONTAINER"
+    ],
+    [
+      2.6e-05,
+      "           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.499602,
+      "\u001b[2J\u001b[HCONTAINER        "
+    ],
+    [
+      5.4e-05,
+      "   CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.501498,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       "
+    ],
+    [
+      2.6e-05,
+      "MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.501419,
+      "\u001b[2J\u001b[HCONTAINER"
+    ],
+    [
+      4.3e-05,
+      "           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.497134,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           "
+    ],
+    [
+      3.1e-05,
+      "PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.500768,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %"
+    ],
+    [
+      3.2e-05,
+      "               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.498736,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      2.7e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.501734,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O"
+    ],
+    [
+      5.2e-05,
+      "               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.501341,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      7.2e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.501474,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.2e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.496107,
+      "\u001b[2J\u001b[HCONTAINER           CPU %"
+    ],
+    [
+      2.6e-05,
+      "               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.500222,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b"
+    ],
+    [
+      3e-05,
+      "        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.499035,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      2.6e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   "
+    ],
+    [
+      1.7e-05,
+      "30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.505031,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.495052,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %"
+    ],
+    [
+      2.5e-05,
+      "               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.503486,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.3e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %        "
+    ],
+    [
+      2.2e-05,
+      "       NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB"
+    ],
+    [
+      1.6e-05,
+      "   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.498978,
+      "\u001b[2J\u001b[HCONTAINER"
+    ],
+    [
+      3.3e-05,
+      "           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.499388,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      3.1e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      "
+    ],
+    [
+      1.5e-05,
+      "1\r\n"
+    ],
+    [
+      0.501495,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.496899,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.9e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.499185,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      3.4e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.505043,
+      "\u001b[2J\u001b[HCONTAINER           CPU %"
+    ],
+    [
+      2.5e-05,
+      "               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.495965,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      3.7e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.50265,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT"
+    ],
+    [
+      4.6e-05,
+      "       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.49624,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               "
+    ],
+    [
+      2.5e-05,
+      "NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.500532,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.502428,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O        "
+    ],
+    [
+      3.4e-05,
+      "   PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.501535,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O        "
+    ],
+    [
+      4e-05,
+      "   PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.495424,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%"
+    ],
+    [
+      3.3e-05,
+      "               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.500435,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O"
+    ],
+    [
+      3.4e-05,
+      "           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.501416,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %"
+    ],
+    [
+      3.8e-05,
+      "               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.501474,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               "
+    ],
+    [
+      4.2e-05,
+      "MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.497729,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       "
+    ],
+    [
+      3.5e-05,
+      "MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.500455,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.2e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.499707,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB"
+    ],
+    [
+      3.4e-05,
+      "   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.500433,
+      "\u001b[2J\u001b[HCONTAINER           CPU %        "
+    ],
+    [
+      3.4e-05,
+      "       MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.498677,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      3.2e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.501843,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS"
+    ],
+    [
+      4.9e-05,
+      "\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.501266,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.2e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.499228,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      3.2e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               "
+    ],
+    [
+      1.8e-05,
+      "BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      "
+    ],
+    [
+      1.5e-05,
+      "1\r\n"
+    ],
+    [
+      0.499367,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O"
+    ],
+    [
+      3.5e-05,
+      "               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.500853,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.497344,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.9e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.50304,
+      "\u001b[2J\u001b[HCONTAINER"
+    ],
+    [
+      4.8e-05,
+      "           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.497017,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      2.8e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.503468,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      3.1e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   "
+    ],
+    [
+      1.9e-05,
+      "30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.497842,
+      "\u001b[2J\u001b[HCONTAINER"
+    ],
+    [
+      2.9e-05,
+      "           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.501643,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   "
+    ],
+    [
+      3.2e-05,
+      "295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.49658,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.502397,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O        "
+    ],
+    [
+      3.4e-05,
+      "       BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.49759,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      3.8e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.502656,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      3.7e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               "
+    ],
+    [
+      2.1e-05,
+      "BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.496774,
+      "\u001b[2J\u001b[HCONTAINER        "
+    ],
+    [
+      2.5e-05,
+      "   CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.50403,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%        "
+    ],
+    [
+      3.2e-05,
+      "       616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.495704,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               "
+    ],
+    [
+      5.8e-05,
+      "MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.504784,
+      "\u001b[2J\u001b[HCONTAINER        "
+    ],
+    [
+      3.1e-05,
+      "   CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.497082,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5.3e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.503078,
+      "\u001b[2J\u001b[HCONTAINER"
+    ],
+    [
+      5.8e-05,
+      "           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.495436,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.499782,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O        "
+    ],
+    [
+      3.1e-05,
+      "   PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.501456,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      2.9e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.502967,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               "
+    ],
+    [
+      2.6e-05,
+      "NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.495388,
+      "\u001b[2J\u001b[HCONTAINER           CPU %        "
+    ],
+    [
+      3.1e-05,
+      "       MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.502296,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      3e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O        "
+    ],
+    [
+      1.6e-05,
+      "   PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   "
+    ],
+    [
+      1.2e-05,
+      "295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.498264,
+      "\u001b[2J\u001b[HCONTAINER           CPU %        "
+    ],
+    [
+      3e-05,
+      "       MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.50016,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %"
+    ],
+    [
+      2.8e-05,
+      "               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.501386,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               "
+    ],
+    [
+      2.8e-05,
+      "MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.501471,
+      "\u001b[2J\u001b[HCONTAINER           "
+    ],
+    [
+      5e-05,
+      "CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.500586,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      2.9e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.499294,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %"
+    ],
+    [
+      4.7e-05,
+      "               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.500471,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b"
+    ],
+    [
+      3.2e-05,
+      "        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.499704,
+      "\u001b[2J\u001b[HCONTAINER           CPU %        "
+    ],
+    [
+      3e-05,
+      "       MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.497297,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      2.6e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.503018,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      3.3e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.497435,
+      "\u001b[2J\u001b[HCONTAINER"
+    ],
+    [
+      2.6e-05,
+      "           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.499548,
+      "\u001b[2J\u001b[HCONTAINER           "
+    ],
+    [
+      2.6e-05,
+      "CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.250536,
+      "^C"
+    ],
+    [
+      0.004449,
+      "\r\nbash-3.2$ "
+    ],
+    [
+      2.514943,
+      "d"
+    ],
+    [
+      0.071231,
+      "o"
+    ],
+    [
+      0.096189,
+      "c"
+    ],
+    [
+      0.104026,
+      "k"
+    ],
+    [
+      0.079981,
+      "e"
+    ],
+    [
+      0.14391,
+      "r"
+    ],
+    [
+      0.494804,
+      " "
+    ],
+    [
+      0.169255,
+      "p"
+    ],
+    [
+      0.095861,
+      "s"
+    ],
+    [
+      0.27202,
+      "\r\n"
+    ],
+    [
+      0.015935,
+      "CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS              PORTS               NAMES\r\n40cf74e6173b        openvas:latest      \"/docker-entrypoint.s\"   9 minutes ago       Up 9 minutes        9391/tcp            furious_bartik\r\n"
+    ],
+    [
+      0.002156,
+      "bash-3.2$ "
+    ],
+    [
+      7.223715,
+      "docker ps"
+    ],
+    [
+      0.270666,
+      "\b\bstats"
+    ],
+    [
+      0.648286,
+      "\r\n"
+    ],
+    [
+      0.539609,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      5e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O        "
+    ],
+    [
+      3e-05,
+      "       BLOCK I/O           PIDS\r\n40cf74e6173b        1.32%               616.3 MiB / 1.954 GiB   30.81%              "
+    ],
+    [
+      3e-05,
+      "27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.498642,
+      "\u001b[2J\u001b[HCONTAINER"
+    ],
+    [
+      3.6e-05,
+      "           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.501418,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      4.7e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB"
+    ],
+    [
+      2.3e-05,
+      "   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.497432,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.501945,
+      "\u001b[2J\u001b[HCONTAINER           "
+    ],
+    [
+      6.9e-05,
+      "CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.500415,
+      "\u001b[2J\u001b[HCONTAINER        "
+    ],
+    [
+      3.8e-05,
+      "   CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.499974,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %"
+    ],
+    [
+      2.5e-05,
+      "               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.500009,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      3.3e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.500021,
+      "\u001b[2J\u001b[HCONTAINER           "
+    ],
+    [
+      4.8e-05,
+      "CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               "
+    ],
+    [
+      1.9e-05,
+      "616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   "
+    ],
+    [
+      1.7e-05,
+      "295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.498797,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               "
+    ],
+    [
+      3.6e-05,
+      "NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.50177,
+      "\u001b[2J\u001b[HCONTAINER"
+    ],
+    [
+      5e-05,
+      "           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.499369,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.50033,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%"
+    ],
+    [
+      2.9e-05,
+      "               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.499195,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               "
+    ],
+    [
+      3.3e-05,
+      "BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.499308,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       "
+    ],
+    [
+      4.2e-05,
+      "MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.500762,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O        "
+    ],
+    [
+      3.1e-05,
+      "   PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.497697,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       "
+    ],
+    [
+      2.7e-05,
+      "MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.502073,
+      "\u001b[2J\u001b[HCONTAINER           "
+    ],
+    [
+      4.9e-05,
+      "CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.501656,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      6e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.499579,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      3e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.499385,
+      "\u001b[2J\u001b[HCONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O"
+    ],
+    [
+      2.9e-05,
+      "               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.500191,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      6.7e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.498229,
+      "\u001b[2J\u001b[HCONTAINER           CPU %        "
+    ],
+    [
+      4.3e-05,
+      "       MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.499061,
+      "\u001b[2J\u001b[H"
+    ],
+    [
+      3.5e-05,
+      "CONTAINER           CPU %               MEM USAGE / LIMIT       MEM %               NET I/O               BLOCK I/O           PIDS\r\n40cf74e6173b        0.00%               616.3 MiB / 1.954 GiB   30.81%              27.85 MB / 529.8 kB   295.2 MB / 0 B      1\r\n"
+    ],
+    [
+      0.041029,
+      "^C"
+    ],
+    [
+      0.002681,
+      "\r\nbash-3.2$ "
+    ],
+    [
+      0.990743,
+      "d"
+    ],
+    [
+      0.087963,
+      "o"
+    ],
+    [
+      0.07203,
+      "c"
+    ],
+    [
+      0.096761,
+      "k"
+    ],
+    [
+      0.071222,
+      "e"
+    ],
+    [
+      0.096046,
+      "r"
+    ],
+    [
+      0.975999,
+      " "
+    ],
+    [
+      0.103906,
+      "a"
+    ],
+    [
+      0.152133,
+      "t"
+    ],
+    [
+      0.143956,
+      "t"
+    ],
+    [
+      0.1204,
+      "a"
+    ],
+    [
+      0.160121,
+      "c"
+    ],
+    [
+      0.119371,
+      "h"
+    ],
+    [
+      0.656307,
+      " "
+    ],
+    [
+      14.897362,
+      "40c"
+    ],
+    [
+      4.4e-05,
+      "f74e617"
+    ],
+    [
+      2.1e-05,
+      "3b"
+    ],
+    [
+      0.855541,
+      "\r\n"
+    ],
+    [
+      9.098134,
+      "\r\n"
+    ],
+    [
+      3.37568,
+      "\r\n"
+    ],
+    [
+      1.105389,
+      "^C[Tue Sep 13 23:45:18 2016][1] Received the Interrupt signal\r\n"
+    ],
+    [
+      0.989476,
+      "\r\n"
+    ],
+    [
+      1.288545,
+      "\r\n"
+    ],
+    [
+      0.14113,
+      "\r\n"
+    ],
+    [
+      1.593952,
+      "[Tue Sep 13 23:45:22 2016][1] closing logfile\r\n"
+    ],
+    [
+      0.604675,
+      "bash-3.2$ "
+    ],
+    [
+      14.420191,
+      "d"
+    ],
+    [
+      0.087942,
+      "o"
+    ],
+    [
+      0.063948,
+      "c"
+    ],
+    [
+      0.104519,
+      "k"
+    ],
+    [
+      0.072425,
+      "e"
+    ],
+    [
+      0.079028,
+      "r"
+    ],
+    [
+      0.344001,
+      " "
+    ],
+    [
+      0.128509,
+      "s"
+    ],
+    [
+      0.111513,
+      "t"
+    ],
+    [
+      0.120496,
+      "a"
+    ],
+    [
+      0.087534,
+      "r"
+    ],
+    [
+      0.184041,
+      "t"
+    ],
+    [
+      1.095873,
+      " "
+    ],
+    [
+      1.474818,
+      "40"
+    ],
+    [
+      4e-05,
+      "cf74e"
+    ],
+    [
+      3e-05,
+      "617"
+    ],
+    [
+      3.4e-05,
+      "3b"
+    ],
+    [
+      1.693653,
+      "\r\n"
+    ],
+    [
+      0.283272,
+      "40cf74e6173b\r\n"
+    ],
+    [
+      0.002016,
+      "bash-3.2$ "
+    ],
+    [
+      2.610854,
+      "docker start 40cf74e6173b"
+    ],
+    [
+      0.119518,
+      "\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\u001b[1@attach\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.688098,
+      "\r\n"
+    ],
+    [
+      0.096844,
+      "[i] Feed is already current, no synchronization necessary.\r\n"
+    ],
+    [
+      0.00085,
+      "Launching openvas-scanner...\r\n"
+    ],
+    [
+      163.174511,
+      "\r\n(openvassd:1): lib  kb_redis-CRITICAL **: get_redis_ctx: redis connection error: No such file or directory\r\n"
+    ],
+    [
+      0.000185,
+      "\r\n(openvassd:1): lib  kb_redis-CRITICAL **: redis_new: cannot access redis at '/tmp/redis.sock'\r\n\r\n(openvassd:1): lib  kb_redis-CRITICAL **: get_redis_ctx: redis connection error: No such file or directory\r\n"
+    ],
+    [
+      0.000233,
+      "[Tue Sep 13 23:48:29 2016][1] openvassd 5.0.5 started\r\n"
+    ],
+    [
+      21.755194,
+      "^C[Tue Sep 13 23:48:51 2016][1] Received the Interrupt signal\r\n"
+    ],
+    [
+      4.016525,
+      "[Tue Sep 13 23:48:55 2016][1] closing logfile\r\n"
+    ],
+    [
+      0.613815,
+      "bash-3.2$ "
+    ]
+  ],
+  "version": 1,
+  "width": 150,
+  "height": 51,
+  "duration": 500.316143,
+  "command": null
+}
